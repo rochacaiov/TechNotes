@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TechNotes</string>
+    
+    <string-array name="noteTitles">
+        <item>Senhas Banco</item>
+        <item>Salas Faculdade</item>
+        <item>Treino Academia</item>
+        <item>Emails</item>
+        <item>Lembrete</item>
+        <item>Localização Dona de Casa</item>
+        <item>Isso é um teste!</item>
+        <item>Links uteis</item>
+        <item>Cereja do Bolo</item>
+        <item>Receitas Almoço</item>
+    </string-array>
+
+    <string-array name="noteContents">
+        <item>BB - 284976\nBRB - 827465\nCAIXA - 92836</item>
+        <item>Design de Software (A203)\nJava - POO (B102)\nSistemas Computacionais (M207)\nIIHC (R01B)</item>
+        <item>Segunda - Costas/Biceps\n Terça - Peito/Triceps\n Quarta/Perna</item>
+        <item>vrocha.caio98@gmail.com</item>
+        <item>Amanhã é o futuro</item>
+        <item>Perto da rua 9 sul\nLeite\nCenoura\nBatata\nCanela\nMandioca\nAvelã\nMacaco</item>
+        <item>ja foi</item>
+        <item>Sempre será bom</item>
+        <item>Sem nenhuma é melhor</item>
+        <item>Sim, mas não</item>
+    </string-array>
+    
+</resources>
